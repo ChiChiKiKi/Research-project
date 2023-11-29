@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CD_ptc</string>
+    <string name="category_title">가장 관심있는 분야들을 선택해주세요</string>
+    <string name="else_thing">기타(직접 입력해주세요)</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="ko_register">회원가입</string>
+    <string name="id">ID</string>
+    <string name="password">PASSWORD</string>
+</resources>
